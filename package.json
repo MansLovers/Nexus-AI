@@ -13,26 +13,25 @@
     "test2": "nodemon Lanture.js"
   },
   "keywords": [
-    "termux-whatsapp-bot",
-    "whatsapp-bot",
-    "whatsapp",
-    "js-whatsapp",
-    "whatsapp",
-    "wabot-aq"
+    "nexus-whatsapp-bot",
+    "Nexus-bot",
+    "NexusAI",
+    "Nexus-whatsapp",
+    "Nexus",
+    "Nexus-Ai"
   ],
-  "homepage": "https://github.com/MansLovers/MansLovers",
+  "homepage": "https://github.com/MansLovers/Nexus-AI",
   "author": "MansTwelve",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MansLovers/MansLovers.git"
+    "url": "git+https://github.com/MansLovers/Nexus-AI.git"
   },
   "bugs": {
-    "url": "https://github.com/MansLovers/MansLovers/issues"
+    "url": "https://github.com/MansLovers/Nexus-AI/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@adiwajshing/baileys": "npm:@whiskeysockets/baileys",
-    "@whiskeysockets/baileys": "github:laxeder/baileys#rompot",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^4.2.4",
     "@google/generative-ai": "^0.1.3",
