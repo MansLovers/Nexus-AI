@@ -9,7 +9,7 @@
     <img src="https://telegra.ph/file/6400eac37bbd824d1682a.jpg" alt="Mans Twelve"/>
 </div>
 
-**Nexus AI mampu memahami dan merespons berbagai pertanyaan, permintaan, dan kebutuhan pengguna dengan cepat dan tepat. Berkat pemrosesan bahasa alami yang canggih, ia mampu memahami nuansa dalam percakapan dan menyajikan jawaban yang relevan dan bermakna.
+**Nexus AI mampu memahami dan merespons berbagai pertanyaan, permintaan, dan kebutuhan pengguna dengan cepat dan tepat. Berkat pemrosesan bahasa alami yang canggih, ia mampu memahami nuansa dalam percakapan dan menyajikan jawaban yang relevan dan bermakna.**
 
 
 ## Editting
@@ -42,4 +42,4 @@
    global.idgc = "120363217877758434@g.us";
    ```
 
-**Create New Feature `nexus/folder/file.js` folder with the following template
+**Create New Feature `nexus/folder/file.js` folder with the following template**
