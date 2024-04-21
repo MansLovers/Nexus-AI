@@ -14,7 +14,7 @@
 ## Information Creator
 [![Instagram](https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mans_sudirta)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-20BEFF?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/6283129240927)
-![WhatsApp](https://img.shields.io/badge/BOTWA-20BEFF?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/6285704926708)
+[![WhatsApp](https://img.shields.io/badge/BOTWA-20BEFF?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/6285704926708)
 
 ## Editting
 
