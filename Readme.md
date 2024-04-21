@@ -11,7 +11,11 @@
 
 **Nexus AI mampu memahami dan merespons berbagai pertanyaan, permintaan, dan kebutuhan pengguna dengan cepat dan tepat. Berkat pemrosesan bahasa alami yang canggih, ia mampu memahami nuansa dalam percakapan dan menyajikan jawaban yang relevan dan bermakna.**
 
-
+## Information Creator
+[![Instagram](https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mans_sudirta)
+[![WhatsApp](https://img.shields.io/badge/Facebook-20BEFF?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/6283129240927)
+**Example Bot**
+[![WhatsApp](https://img.shields.io/badge/Facebook-20BEFF?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/6285704926708)
 ## Editting
 
 1. **Edit the config.js file**
